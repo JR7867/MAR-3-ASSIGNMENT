@@ -1,0 +1,5 @@
+tuple1 = ("s", "j" , "l")
+tuple2 = (1, 4, 3)
+
+tuple3 = tuple1 + tuple2
+print(tuple3)
